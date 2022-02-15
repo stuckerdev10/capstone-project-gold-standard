@@ -4,7 +4,7 @@ Capstone project for Dev10 Data Cohort Nov 2021
 
 Members: Daniel Brickman, Chris Nash, Sawyer Tucker, Greg Wagner
 
-Topic: COmmodity Prices
+Topic: Commodity Prices
 
 Project Specifications folder contains required deliverables for Project Kickoff
 
