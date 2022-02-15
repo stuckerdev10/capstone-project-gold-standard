@@ -9,3 +9,5 @@ Topic: Commidity Prices
 Project Specifications folder contains required deliverables for Project Kickoff
 
 Code folder contains all the code we used for this project
+
+Dashboard folder contains all the documents we used in our dashboard
