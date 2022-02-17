@@ -8,7 +8,10 @@ Daniel Brickman, Chris Nash, Sawyer Tucker, Greg Wagner
 Applying Machine Learning to Predicting Commodity Prices.
 
 ## [Main Folder](https://github.com/stuckerdev10/capstone-project-gold-standard)
-Contains Presentation Slides and our two reports, which further detail the course of our research and discoveries.
+Contains presentation and materials which further detail the course of our research and discoveries.\n
+[Presentation Slides](https://github.com/stuckerdev10/capstone-project-gold-standard/blob/main/CapstonePresentationSlides.pdf)\n
+[ETL Report](https://github.com/stuckerdev10/capstone-project-gold-standard/blob/main/RepeatableETLReport.pdf)\n
+[Project Summary](https://github.com/stuckerdev10/capstone-project-gold-standard/blob/main/ProjectExecutiveSummary.pdf)
 
 ## [Project Specifications Folder](https://github.com/stuckerdev10/capstone-project-gold-standard/tree/main/Project%20Specifications)
 Contains required deliverables for Project Kickoff.
