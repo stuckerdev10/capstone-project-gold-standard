@@ -33,4 +33,6 @@ ARIMA Models - [Corn](https://github.com/stuckerdev10/capstone-project-gold-stan
 
 
 ## [Dashboard Folder](https://github.com/stuckerdev10/capstone-project-gold-standard/tree/main/dashboard)
-Contains all the documents we used in our dashboard.
+Contains all the documents we used in our dashboard. This is split into two files because Power BI does not allow for data sources that are constantly updating and static data sources to coexist within one file.
+[Forecasting and Exports](https://github.com/stuckerdev10/capstone-project-gold-standard/blob/main/dashboard/forecasting-and-exports.pbix)  
+[Static Visualizations](https://github.com/stuckerdev10/capstone-project-gold-standard/blob/main/dashboard/gold-standard-visualizations.pbix)
