@@ -26,7 +26,6 @@ Contains required deliverables for Project Kickoff.
 [Project Management Plan](https://github.com/stuckerdev10/capstone-project-gold-standard/blob/main/Project%20Specifications/ProjectManagementPlan.xlsx)  
 
 ## [Code Folder](https://github.com/stuckerdev10/capstone-project-gold-standard/tree/main/code)
-Contains all the code we used for this project.  
 Commodities Data Bricks [Producer](https://github.com/stuckerdev10/capstone-project-gold-standard/blob/main/code/Commodities%20Producer.ipynb) and [Consumer](https://github.com/stuckerdev10/capstone-project-gold-standard/blob/main/code/Commodities%20Consumer.ipynb)  
 Farm Data Bricks [Producer](https://github.com/stuckerdev10/capstone-project-gold-standard/blob/main/code/farm-producer.ipynb), [Consumer](https://github.com/stuckerdev10/capstone-project-gold-standard/blob/main/code/farm-consumer.ipynb), and [ETL](https://github.com/stuckerdev10/capstone-project-gold-standard/blob/main/code/farm-etl.ipynb)  
 SQL Tables Script [Part 1](https://github.com/stuckerdev10/capstone-project-gold-standard/blob/main/code/SQLTablesScript.sql) and [Part 2](https://github.com/stuckerdev10/capstone-project-gold-standard/blob/main/code/SQLTablesScript-2.sql)  
