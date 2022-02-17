@@ -5,13 +5,16 @@ Capstone project for Dev10 Data Cohort Nov 2021
 Daniel Brickman, Chris Nash, Sawyer Tucker, Greg Wagner
 
 ## Topic
-Applying Machine Learning to Predicting Commodity Prices
+Applying Machine Learning to Predicting Commodity Prices.
+
+## Main Folder
+Contains Presentation Slides and our report, which further details the course of our research and discoveries.
 
 ## Project Specifications Folder
-Contains required deliverables for Project Kickoff
+Contains required deliverables for Project Kickoff.
 
 ## Code Folder
-Contains all the code we used for this project
+Contains all the code we used for this project.
 
 ## Dashboard Folder
-Contains all the documents we used in our dashboard
+Contains all the documents we used in our dashboard.
