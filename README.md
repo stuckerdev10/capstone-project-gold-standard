@@ -5,7 +5,7 @@ Capstone project for Dev10 Data Cohort Nov 2021
 Daniel Brickman, Chris Nash, Sawyer Tucker, Greg Wagner
 
 ## Topic
-Commodity Prices
+Applying Machine Learning to Predicting Commodity Prices
 
 ## Project Specifications Folder
 Contains required deliverables for Project Kickoff
