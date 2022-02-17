@@ -1,4 +1,4 @@
-# Gold Standard Project Specifications
+# Project Specifications
 
 This folder contains all of the initial figures used to help plan for this project including:
 
