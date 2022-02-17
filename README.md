@@ -10,7 +10,7 @@ Applying Machine Learning to Predicting Commodity Prices.
 ## Main Folder
 Contains Presentation Slides and our two reports, which further detail the course of our research and discoveries.
 
-## Project Specifications Folder
+## [Project Specifications Folder](https://github.com/stuckerdev10/capstone-project-gold-standard/tree/main/Project%20Specifications)
 Contains required deliverables for Project Kickoff.
 
 ## Code Folder
