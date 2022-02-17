@@ -13,8 +13,8 @@ Contains Presentation Slides and our two reports, which further detail the cours
 ## [Project Specifications Folder](https://github.com/stuckerdev10/capstone-project-gold-standard/tree/main/Project%20Specifications)
 Contains required deliverables for Project Kickoff.
 
-## Code Folder
+## [Code Folder](https://github.com/stuckerdev10/capstone-project-gold-standard/tree/main/code)
 Contains all the code we used for this project.
 
-## Dashboard Folder
+## [Dashboard Folder](https://github.com/stuckerdev10/capstone-project-gold-standard/tree/main/dashboard)
 Contains all the documents we used in our dashboard.
