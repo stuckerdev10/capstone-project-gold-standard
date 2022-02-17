@@ -9,7 +9,6 @@ Applying Machine Learning to Predicting Commodity Prices.
 
 ## Main Folder
 Contains Presentation Slides and our two reports, which further details the course of our research and discoveries.
-Also contains early napkin drawings, used to focus our investigation.
 
 ## Project Specifications Folder
 Contains required deliverables for Project Kickoff.
