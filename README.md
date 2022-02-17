@@ -15,6 +15,15 @@ Contains presentation and materials which further detail the course of our resea
 
 ## [Project Specifications Folder](https://github.com/stuckerdev10/capstone-project-gold-standard/tree/main/Project%20Specifications)
 Contains required deliverables for Project Kickoff.
+[Exploratory Questions](https://github.com/stuckerdev10/capstone-project-gold-standard/blob/main/Project%20Specifications/ExploratoryQuestions.pdf)  
+[Elevator Pitch](https://github.com/stuckerdev10/capstone-project-gold-standard/blob/main/Project%20Specifications/Elevator%20Pitch.txt)  
+[Project Summary](https://github.com/stuckerdev10/capstone-project-gold-standard/blob/main/Project%20Specifications/Summary.pdf)  
+[Data Sources](https://github.com/stuckerdev10/capstone-project-gold-standard/blob/main/Project%20Specifications/DataSources.pdf)  
+[Napkin Drawing](https://github.com/stuckerdev10/capstone-project-gold-standard/blob/main/Project%20Specifications/NapkinDrawings.drawio.png)  
+[Napkin Drawing with Feedback](https://github.com/stuckerdev10/capstone-project-gold-standard/blob/main/Project%20Specifications/NapkinDrawingWithFeedback.png)  
+[Data Platform Diagram](https://github.com/stuckerdev10/capstone-project-gold-standard/blob/main/Project%20Specifications/DataPlatformDiagram.png)  
+[ERD](https://github.com/stuckerdev10/capstone-project-gold-standard/blob/main/Project%20Specifications/capstone-erd.PNG)
+[Project Management Plan](https://github.com/stuckerdev10/capstone-project-gold-standard/blob/main/Project%20Specifications/ProjectManagementPlan.xlsx)  
 
 ## [Code Folder](https://github.com/stuckerdev10/capstone-project-gold-standard/tree/main/code)
 Contains all the code we used for this project.
