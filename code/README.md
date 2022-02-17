@@ -6,6 +6,9 @@ This is the folder for all the code we used in our project:
  - SQL table scripts are how we set up our database in the SQL server
  - Farm files are the files using the Farm API
 
+Here is the prediction graph using the ARIMA model for Wheat:
+
+![image](https://user-images.githubusercontent.com/94391711/154579592-c0a3e403-912b-4059-8109-ad78e63008b0.png)
 
 [Main Folder](https://github.com/stuckerdev10/capstone-project-gold-standard)
 
