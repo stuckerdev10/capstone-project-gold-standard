@@ -8,7 +8,7 @@ Daniel Brickman, Chris Nash, Sawyer Tucker, Greg Wagner
 Applying Machine Learning to Predicting Commodity Prices.
 
 ## Main Folder
-Contains Presentation Slides and our two reports, which further details the course of our research and discoveries.
+Contains Presentation Slides and our two reports, which further detail the course of our research and discoveries.
 
 ## Project Specifications Folder
 Contains required deliverables for Project Kickoff.
