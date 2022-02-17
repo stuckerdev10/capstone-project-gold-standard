@@ -7,3 +7,7 @@ The gold-standard-visualizations report contains visualizations regarding the re
 The forecasting-and-exports data contains international data and data from our machine learning model.
 
 The reports were made separate to account for having both a constantly updating data source and for importing a machine learning model, a feature that cannout currently be done together in Power BI.
+
+For easy access to our Code folder, please click [here]((https://github.com/stuckerdev10/capstone-project-gold-standard/tree/main/code)
+
+For easy access to our Project Specifications folder, please click [here](https://github.com/stuckerdev10/capstone-project-gold-standard/tree/main/Project%20Specifications)
