@@ -8,6 +8,11 @@ The forecasting-and-exports data contains international data and data from our m
 
 The reports were made separate to account for having both a constantly updating data source and for importing a machine learning model, a feature that cannout currently be done together in Power BI.
 
+Here is an image of one page from gold-standard-visualizations report:
+
+![image](https://user-images.githubusercontent.com/94391711/154579136-e83d6ac6-1c7a-4877-9ad9-65392bc950e0.png)
+
+
 [Main folder](https://github.com/stuckerdev10/capstone-project-gold-standard)
 
 [Code folder](https://github.com/stuckerdev10/capstone-project-gold-standard/tree/main/code)
